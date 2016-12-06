@@ -2,7 +2,7 @@
 public class HelloWorldMain {
 
     public HelloWorldMain() {
-        System.out.println("hELLO wORLD");
+        System.out.println("hELLO wORLD second");
     }
 
 
